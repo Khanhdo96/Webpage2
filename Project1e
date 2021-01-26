@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Second Webpage</title>
+  </head>
+  <body>
+    <h1>Hello everyone</h1>
+    <p>I'm currently doing Gaming desk setup</p><br>
+    <a href="https://instagram.com/kennyyy_do96?igshid=1hn4s79yigd27">My IG</a>
+    <h2>My photo of my first gaming room design</h2>
+    <img src="Gaming_desk_setup.jpg" alt="My photo" width="300">
+    </body>
+    </html>
